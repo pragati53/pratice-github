@@ -1,2 +1,2 @@
 creates text1.txt file
-now editing
+now editing hii now from vs 
